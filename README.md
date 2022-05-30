@@ -12,16 +12,16 @@ Resolução dos desafios propostos pelo processo seletivo da IntuitiveCare
      alt="DataTable">
 Primeira vez de fato em contato com o Vue js e com Datatables ,apesar do resultado não ser o esperado ,foi uma experiencia muito legal de aprendizado e de melhoria,poder estar aprendendo mais sobre esse framework tão incrivel e com grandes funcionalidades ,e por ser um framework reativo da espaço para poder fazer grandes coisas e interações ,pretendo estudar mais sobre esse framework e estar melhor preparado para futuras oportunidades.A csv não esta completa  e foi colocado somente alguns dados ,pois ainda não tive o conhecimento suficiente para usar ela através de uma API ou puxar os dados através de um servidor como Mysql ,mas igual eu disse foi uma grande experiencia onde aprendi muito e pretendo me aprofundar mais...
 <h2>Technologies Used:<h2>
- <li>Vue JS</li>
+ <li>Vue JS</li></li></li></li>
  <li>Bootstrap</li>
  <li>Jquery </li>
   <li>CSS </li>
  
   
  <h3> ℹ️ How to run<h3>
-npm install --save datatables.net-dt
-npm install datatables.net --save
-npm install bootstrap --save
-npm install jquery --save
+<li>npm install --save datatables.net-dt</li>
+ <li>npm install datatables.net --save</li>
+ <li>npm install bootstrap --save</li>
+ <li>npm install jquery --save</li>
 
-    <h3> Thanks for look that!❤️</h3>
+  <h4> Thanks for look that!❤️</h4>
